@@ -1,9 +1,11 @@
 {
     "name": "exadra37-docker-images/php7-fpm",
-    "description": "All my repositories will have this one as starting point.",
+    "description": "Docker images for Php7 Fpm.",
     "keywords": [
         "Exadra37",
         "php-fpm",
+        "php",
+        "php7",
         "docker",
         "docker image"
     ],
