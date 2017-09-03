@@ -1,0 +1,20 @@
+{
+    "name": "exadra37-docker-images/php7-fpm",
+    "description": "All my repositories will have this one as starting point.",
+    "keywords": [
+        "Exadra37",
+        "php-fpm",
+        "docker",
+        "docker image"
+    ],
+    "homepage": "https://gitlab.com/exadra37-docker-images/php7-fpm",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Exadra37",
+            "email": "exadra37@gmail.com",
+            "homepage": "https://exadra37.com",
+            "role": "Software Developer"
+        }
+    ]
+}
