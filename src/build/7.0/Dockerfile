@@ -10,7 +10,9 @@ RUN apt-get update && \
         zip \
         unzip && \
     docker-php-ext-install \
-        pdo_mysql mcrypt && \
+        sockets \
+        pdo_mysql \
+        mcrypt && \
 
     # Create new user
     useradd -m -u 1000 -s /usr/sbin/nologin ${CONTAINER_USER} && \
